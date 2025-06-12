@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "Gemini Vision Processor",
+  "description": "react project git template",
+  "prompt": ""
+}
